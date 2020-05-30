@@ -3,3 +3,6 @@ If you love burgers as much as I do, then this application will surely get you e
 
 ## Tools used
 React, Redux, Firebase
+
+## View in browser
+https://burger-xi.web.app/
